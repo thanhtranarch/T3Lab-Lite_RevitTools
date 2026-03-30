@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "T3Lab-Lite",
+    "description": "Set of custom tools.",
+    "author": "Tran Tien Thanh",
+    "author_profile": "https://www.linkedin.com/in/sunarch7899/",
+    "url": "https://github.com/thanhtranarch/T3Lab-Lite_RevitTools",
+    "website": "",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
