@@ -4,7 +4,7 @@
     "type": "extension",
     "rocket_mode_compatible": "True",
     "name": "T3Lab-Lite",
-    "description": "Set of custom tools.",
+    "description": "A collection of tools for Revit.",
     "author": "Tran Tien Thanh",
     "author_profile": "https://www.linkedin.com/in/sunarch7899/",
     "url": "https://github.com/thanhtranarch/T3Lab-Lite_RevitTools",
